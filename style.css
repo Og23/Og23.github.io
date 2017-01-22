@@ -1,0 +1,55 @@
+body{
+  background-color: skyblue;
+  color: grey;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: left;;
+
+}
+
+.middle{
+  font-size: 40px;
+  text-align: center;
+}
+
+
+.title {
+  background-color: pink;
+  border-radius: 25px;
+  border-color: grey;
+  border: 3px solid;
+  margin: 100px, 50px, 100px, 50px;
+}
+
+.name {
+  font-size: 75px;
+  font-weight: bold;
+  postion: absolute;
+  left: 30px;
+
+
+}
+
+.lists {
+  background-color: pink;
+  border-radius: 50px;
+  border: 5px solid;
+  border-color: grey;
+
+
+}
+
+img {
+  width: 20%;
+  height: 200px;
+  border-radius: 1000px;
+  position: absolute;
+  right: 40px;
+  top: 20px;
+
+
+
+}
